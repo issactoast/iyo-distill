@@ -2,11 +2,17 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Tobi Burns",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          10 min. R\r\n          \r\n          \r\n          Home\r\n          About\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Tobi Burns\r\n          \r\n          \r\n            \r\n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n            \r\n            \r\n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-01-30T00:23:49-05:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-29T23:10:23-05:00"
+      "last_modified": "2021-01-30T00:24:43-05:00"
     },
     {
       "path": "index.html",
@@ -14,8 +20,8 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-29T23:10:26-05:00"
+      "last_modified": "2021-01-30T00:23:51-05:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
